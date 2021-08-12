@@ -1,16 +1,24 @@
-### Hi there 👋
+#Hi, my name is _Alexandr Voronovich_
+<!-- ###Few words about myself:
+**Hi, I'm a Fullstack Web Dev.** -->
 
-<!--
-**Alex46908/Alex46908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+####My last repository:
+[Flowers (Version: 2.0)](https://github.com/Alex46908/Flowers_2.0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####My favorite:
+Programming Languages: | Libs and Frameworks:
+:---: | :---: 
+**JavaScript** | **Express** | 
+**TypeScript** | **Electron** | 
+**Python** | 
+
+Tools: | Databases: | Markup Languages:
+:---: | :---: | :---: 
+**NodeJS** | **MongoDB** | **HTML, Markdown**
+**GIT** | **any SQL DB** | **CSS, SCSS**
+**Postman** | |
+**Linux** | |
+####My Contacts:
+- [**LinkedIn**](https://www.linkedin.com/in/alexandr-voronovich-05a203214/)
+- [**Telegram**](https://t.me/avoron12)
