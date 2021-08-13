@@ -1,4 +1,4 @@
-# Hi, my name is _Alexandr Voronovich_
+# Hi, my name is Alexandr Voronovich
 
 <!-- ###Few words about myself:
 **Hi, I'm a Fullstack Web Dev.** -->
