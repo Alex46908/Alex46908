@@ -24,4 +24,4 @@ Tools: | Databases: | Markup Languages:
 #### My Contacts:
 - [**LinkedIn**](https://www.linkedin.com/in/alexandr-voronovich-05a203214/)
 - [**Telegram**](https://t.me/avoron12)
-- [**voronovicha05@gmail.com**](voronovicha05@gmail.com)
+- **voronovicha05@gmail.com**
