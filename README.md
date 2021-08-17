@@ -16,10 +16,10 @@ Programming Languages: | Libs and Frameworks:
 
 Tools: | Databases: | Markup Languages:
 :---: | :---: | :---: 
-**NodeJS** | **MongoDB** | **HTML, Markdown**
-**GIT** | **any SQL DB** | **CSS, SCSS**
-**Postman** | **key - value** |
-**Linux** | **JSON** |
+**NodeJS** | **MongoDB** | **HTML**
+**GIT** | **any SQL DB** | **Markdown**
+**Postman** | **key - value** | **CSS**
+**Linux** | **JSON** | **SASS, SCSS**
 
 #### My Contacts:
 - [**LinkedIn**](https://www.linkedin.com/in/alexandr-voronovich-05a203214/)
