@@ -3,10 +3,10 @@
 <!-- ###Few words about myself:
 **Hi, I'm a Fullstack Web Dev.** -->
 
-#### My last project:
+#### My last Project:
 [Arcana](https://github.com/orgs/Arcanum-Inc/projects/1)
 
-#### My last repository:
+#### My last Repository:
 [Flowers (Version: 2.0)](https://github.com/Alex46908/Flowers_2.0)
 
 #### My favorite:
