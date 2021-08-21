@@ -14,7 +14,7 @@ Programming Languages: | Libs and Frameworks:
 :---: | :---: 
 **JavaScript** | **Express** | 
 **TypeScript** | **Electron** | 
-**Python** | 
+**Python** |  **Django** 
 
 Tools: | Databases: | Markup Languages:
 :---: | :---: | :---: 
