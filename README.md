@@ -3,8 +3,10 @@
 <!-- ###Few words about myself:
 **Hi, I'm a Fullstack Web Dev.** -->
 
-#### My last Repository:
+#### My last Repositorys:
 [Flowers (Version: 2.0)](https://github.com/Alex46908/Flowers_2.0)
+
+[UrlDeviceInfo (small tool)](https://github.com/Alex46908/UrlDeviceInfo)
 
 #### My favorite:
 Programming Languages: | Libs and Frameworks:
