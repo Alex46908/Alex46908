@@ -6,7 +6,8 @@
 #### My last Repositorys:
 [Flowers (Version: 2.0)](https://github.com/Alex46908/Flowers_2.0)
 
-[UrlDeviceInfo (small tool)](https://github.com/Alex46908/UrlDeviceInfo)
+#### My favorite Tools:
+[URL-Device-Info](https://github.com/Alex46908/URL-Device-Info)
 
 #### My favorite:
 Programming Languages: | Libs and Frameworks:
