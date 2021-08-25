@@ -24,7 +24,7 @@ Tools: | Databases: | Markup Languages:
 :---: | :---: | :---: 
 **NodeJS** | **MongoDB** | **HTML**
 **GIT** | **any SQL DB** | **Markdown**
-**Postman** | **key - value** | **CSS**
+**Postman** | **key - value DB** | **CSS**
 **Linux** | **JSON** | **SASS, SCSS**
 
 #### My Contacts:
