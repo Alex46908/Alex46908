@@ -22,7 +22,7 @@ Programming Languages: | Libs and Frameworks:
 
 Tools: | Databases: | Markup Languages:
 :---: | :---: | :---: 
-**NodeJS** | **MongoDB** | **HTML**
+**NodeJS** | **NOSQL (MongoDB)** | **HTML**
 **GIT** | **any SQL DB** | **Markdown**
 **Postman** | **key - value DB** | **CSS**
 **Linux** | **JSON** | **SASS, SCSS**
