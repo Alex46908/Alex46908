@@ -8,7 +8,7 @@
 
 [Arcana (Server)](https://github.com/Arcanum-Inc/ArcanaServer)
 
-#### My favorite Tools:
+#### My favorite My Tools:
 [URL-Device-Info](https://github.com/Alex46908/URL-Device-Info)
 
 [YouTube-Video-Controller](https://github.com/Alex46908/YouTube-Video-Controller)
