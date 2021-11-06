@@ -3,7 +3,7 @@
 <!-- ###Few words about myself:
 **Hi, I'm a Fullstack Web Dev.** -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex46908&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex46908&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### My favorite:
