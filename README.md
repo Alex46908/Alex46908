@@ -3,17 +3,8 @@
 <!-- ###Few words about myself:
 **Hi, I'm a Fullstack Web Dev.** -->
 
-#### My last Repositorys:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[Arcana (Server)](https://github.com/Arcanum-Inc/ArcanaServer)
-
-[URL-Device-Info](https://github.com/Alex46908/URL-Device-Info)
-
-[YouTube-Video-Controller](https://github.com/Alex46908/YouTube-Video-Controller)
-
-[BinaryPaint](https://github.com/Alex46908/BinaryPaint)
-
-[Flowers (Version: 2.0)](https://github.com/Alex46908/Flowers_2.0)
 
 #### My favorite:
 Programming Languages: | Libs and Frameworks:
